@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-New Test Repo for the `GitHub Actions Fundamentals` training.
+Test Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
 
